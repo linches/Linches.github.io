@@ -1,7 +1,13 @@
 /* CSS Document*/
 
-<head> {
+<body> {
     color: sienna;
     background-color: burlywood;
-    text-align: right
+    text-align: center
+}
+
+<h1> {
+    color: darkseagreen;
+    text-align: justify;
+    font: 400
 }
